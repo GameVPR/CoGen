@@ -1,4 +1,4 @@
-## CoGen
+## About CoGen
 ![Activity](https://img.shields.io/github/commit-activity/w/gamevpr/cogen?style=flat-square)
 ### What is CoGen?
 + CoGen is a code generator that is fast as lightning.
