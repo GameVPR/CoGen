@@ -1,5 +1,5 @@
 ## CoGen
-[https://img.shields.io/github/commit-activity/w/gamevpr/cogen?style=for-the-badge](activiy)
+![Activity](https://img.shields.io/github/commit-activity/w/gamevpr/cogen?style=for-the-badge)
 ### What is CoGen?
 + CoGen is a code generator that is fast as lightning.
 + Cogen is generating codes using this template: XXXXX-XXXXX-XXXXX-XXXXX-XXXXX.
